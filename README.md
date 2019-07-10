@@ -4,7 +4,7 @@
 
 An augmented reality camera for Android designed for use in a graffiti viewer app.
 
-Art and logos used designed and owned by [Ben Cooper](https://www.instagram.com/_b_cooper/).
+Art and logos used designed by [Ben Cooper](https://www.instagram.com/_b_cooper/).
 
 ## Image Targets
 
